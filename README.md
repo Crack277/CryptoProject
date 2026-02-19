@@ -15,7 +15,7 @@
 ## Установка
 1. **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/reclacc/competencies-center-bot.git
+git clone https://github.com/Crack277/CryptoProject.git
 ```
 
 2. **Создайте виртуальное окружение**
